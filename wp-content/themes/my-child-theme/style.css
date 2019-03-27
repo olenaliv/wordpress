@@ -1,0 +1,7 @@
+/**
+ * Theme Name: My Child Theme
+ * Template: unite
+ */
+@import url('../unite/style.css');
+body { background: red; }
+a { color: green; }
